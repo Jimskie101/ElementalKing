@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - DeathZone
+  - Coins
+  - Bullet
+  - Slime
+  - Enemy
+  - FireBullet
+  - Boss
+  - Tissue
+  - Juice
+  - TeleBullet
+  - WaterBullet
+  - Life
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3926165615
+    locked: 0
+  - name: Environment
+    uniqueID: 3662810035
+    locked: 0
+  - name: Projectile
+    uniqueID: 2188474223
+    locked: 0
+  - name: Pickups
+    uniqueID: 315949833
+    locked: 0
+  - name: Enemies
+    uniqueID: 662219421
+    locked: 0
+  - name: Player
+    uniqueID: 3380322545
+    locked: 0
